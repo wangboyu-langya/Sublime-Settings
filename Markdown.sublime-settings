@@ -1,0 +1,7 @@
+{
+	// "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme",
+	// "highlight_line": true,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
+	"line_numbers": true,
+	"wrap_width": 100,
+}

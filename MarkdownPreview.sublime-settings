@@ -1,0 +1,12 @@
+    {
+    /*
+        Enable or not mathjax support.
+    */
+    "enable_mathjax": true,
+    /*
+        Enable or not highlight.js support for syntax highlighting.
+    */
+    "enable_highlight": true,
+    // this activates LiveReload
+    "enable_autoreload": true,
+    }

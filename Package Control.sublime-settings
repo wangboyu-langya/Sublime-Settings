@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"A File Icon",
+		"AlignTab",
+		"Arduino-like IDE",
+		"AutoSpell",
+		"ayu",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Widget Font Size",
+		"ConvertToUTF8",
+		"ExpandRegion",
+		"Git",
+		"Javatar",
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MultiEditUtils",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PlainNotes",
+		"RichTextFormat",
+		"SideBarEnhancements",
+		"Skins",
+		"Terminal",
+		"Transparency",
+		"Vintageous"
+	]
+}
